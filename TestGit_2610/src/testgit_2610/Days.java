@@ -16,7 +16,8 @@ public enum Days {
     THURSDAY("Can't wait to be over"),
     FRIDAY("Let's party"),
     SATURDAY("Let's keep partying"),
-    SUNDAY("Hungover");
+    SUNDAY("Hungover"),
+    HOLYDAYS("This is a real day!");
     
     private final String emotion;
     
