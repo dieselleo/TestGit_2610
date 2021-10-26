@@ -14,7 +14,15 @@ public class TestGit_2610 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Days d = Days.TUESDAY;
+        
+        System.out.println(d.getEmotion());
+        
+        String dayString = "THURSDAY";
+        
+        Days d2= Days.valueOf(dayString);
+        System.out.println(d2);
+        System.out.println(d2.getEmotion());
     }
     
 }
