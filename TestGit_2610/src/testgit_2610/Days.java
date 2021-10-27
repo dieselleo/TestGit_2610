@@ -15,7 +15,7 @@ public enum Days {
     WEDNESDAY("Go for pints today"),
     THURSDAY("Can't wait to be over"),
     FRIDAY("Let's party"),
-    SATURDAY("Let's keep partying"),
+    SATURDAY("Let's play football on Saturday"),
     SUNDAY("Hungover"),
     HOLYDAYS("This is a real day!");
     

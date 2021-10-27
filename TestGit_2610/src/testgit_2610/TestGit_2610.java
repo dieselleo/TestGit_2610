@@ -7,6 +7,7 @@ package testgit_2610;
 /**
  *
  * @author diese
+ * co-author Willian91
  */
 public class TestGit_2610 {
 
@@ -18,7 +19,7 @@ public class TestGit_2610 {
         
         System.out.println(d.getEmotion());
         
-        String dayString = "THURSDAY";
+        String dayString = "SATURDAY";
         
         Days d2= Days.valueOf(dayString);
         System.out.println(d2);
